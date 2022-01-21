@@ -1,0 +1,160 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  margin: 20px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.222);
+  font-size: 20px;
+  font-family: "Sporting Grotesque", sans-serif;
+  padding: 10px;
+}
+
+#javascripttext {
+  font-size: 15px;
+}
+
+#javascripthead {
+  color: yellow;
+}
+
+#currentpage {
+  color: yellow;
+}
+
+.linkbody {
+  text-decoration: underline;
+}
+
+#developer {
+  margin-top: -57px;
+}
+
+#portfolio {
+  position: relative;
+  right: 500px;
+}
+
+#lulurijpkema {
+  position: relative;
+  left: 500px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: black;
+  font-family: "Sporting Grotesque", sans-serif;
+  height: 10px;
+  width: auto;
+}
+
+footer {
+  background-color: black;
+  font-family: "Sporting Grotesque", sans-serif;
+  border-top: 1px solid rgba(255, 255, 255, 0.222);
+  text-align: center;
+  font-size: 70%;
+  margin-top: 5px;
+  padding: 10px;
+  position: relative;
+  top: 1500px;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+  font-size: 60px;
+  position: relative;
+  top: 20px;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 60px;
+  margin-top: 40px;
+  padding-right: 20px;
+  padding-top: -20px;
+}
+
+h4 {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 60px;
+  text-align: left;
+  padding-left: 30px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.222);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.222);
+}
+
+p {
+  color: white;
+}
+
+img {
+  height: 760.5px;
+  width: 351px;
+  position: relative;
+  right: 600px;
+  top: -400px;
+}
+
+.icons {
+  height: 30px;
+  width: 30px;
+}
+
+#filmrol {
+  height: 1000px;
+  width: auto;
+  position: absolute;
+  top: 400px;
+  right: -880px;
+  transform: rotate(-10deg);
+}
+
+#work {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 190px;
+  left: 160px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+#work:hover {
+  color: yellow;
+}
+
+#about {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 280px;
+  left: 180px;
+  text-decoration: underline;
+}
+
+#contact {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 360px;
+  right: 10px;
+  text-decoration: underline;
+}

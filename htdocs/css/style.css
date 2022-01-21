@@ -1,0 +1,183 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  margin: 20px;
+  font-size: 20px;
+  font-family: "Sporting Grotesque", sans-serif;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.222);
+  padding: 10px;
+}
+
+#currentpage {
+  color: yellow;
+}
+
+.linkbody {
+  text-decoration: underline;
+}
+
+.linkbody:hover {
+  color: yellow;
+}
+
+#developer {
+  margin-top: -57px;
+}
+
+#portfolio {
+  position: relative;
+  right: 500px;
+}
+
+#lulurijpkema {
+  position: relative;
+  left: 500px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+body {
+  background-color: black;
+  font-family: "Sporting Grotesque", sans-serif;
+  text-align: center;
+  height: 10px;
+  width: auto;
+}
+
+footer {
+  background-color: black;
+  font-family: "Sporting Grotesque", sans-serif;
+  border-top: 1px solid rgba(255, 255, 255, 0.222);
+  text-align: center;
+  font-size: 70%;
+  margin-top: 5px;
+  padding: 10px;
+  position: relative;
+  top: 1500px;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+  font-size: 60px;
+  position: relative;
+  top: 20px;
+}
+
+h3 {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 60px;
+  margin-top: 40px;
+  padding-right: 20px;
+  padding-top: -20px;
+}
+
+h4 {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 60px;
+  text-align: left;
+  padding-left: 30px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.222);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.222);
+}
+
+p {
+  color: white;
+}
+
+img {
+  height: 760.5px;
+  width: 351px;
+  position: relative;
+  right: 600px;
+  top: -400px;
+}
+
+#linkedinicon {
+  height: 42px;
+  width: 42px;
+  position: fixed;
+  top: 85%;
+  left: 1%;
+}
+
+#githubicon {
+  height: 40px;
+  width: 40px;
+  position: fixed;
+  top: 80%;
+  left: 1%;
+}
+
+#gmailicon {
+  height: 30px;
+  width: 40px;
+  position: fixed;
+  top: 90%;
+  left: 1%;
+}
+
+#filmrol {
+  height: 1000px;
+  width: auto;
+  position: absolute;
+  top: 400px;
+  right: -880px;
+  transform: rotate(-10deg);
+}
+
+#work {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 190px;
+  left: 160px;
+  text-align: left;
+  text-decoration: underline;
+}
+
+#work:hover {
+  color: yellow;
+}
+
+#about:hover {
+  color: yellow;
+}
+
+#about {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 280px;
+  left: 180px;
+  text-decoration: underline;
+}
+
+#contact:hover {
+  color: yellow;
+}
+
+#contact {
+  color: white;
+  font-size: 50px;
+  position: relative;
+  top: 360px;
+  right: 10px;
+  text-decoration: underline;
+}
